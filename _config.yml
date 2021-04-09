@@ -18,10 +18,10 @@ google_analytics: #UA—XXXXXXXX-X
 disqus_shortname: #disqus shortname
 
 user:
-  name: Catbook
-  pic: /assets/img/cat.jpg
+  name: 유지연
+  pic: /assets/img/프로필.jpg
   picAlt: "catbook"
-  job: a category-centric theme
+  job: 홍익대학교 학점교류온 C100067입니다. 
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
